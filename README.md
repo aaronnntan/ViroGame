@@ -6,7 +6,7 @@ Since it is native code, it will run in both Mac and Windows environments, choos
 
 Follow the instructions and download the Viro Media app on your mobile device.
 
-Once the quick start document installation process is fully complete, download this git repo; cd to the folder's root and run npm start.
+Once the quick start document installation process is fully complete, download this git repo; cd to the folder's root and run "npm start".
 
 Make sure your device is connected to the same network as your computer. 
 
