@@ -7,7 +7,11 @@ Since it is native code, it will run in both Mac and Windows environments, choos
 Follow the instructions and download the Viro Media app on your mobile device.
 
 Once the quick start document installation process is fully complete, download this git repo; cd to the folder's root and run npm start.
+
 Make sure your device is connected to the same network as your computer. 
+
 Using the url generated, copy that link into the test bed on your phone. (I messaged myself on facebook messenger and copied that link from my phone)
+
 The app should load.
+
 It takes a while for the 3D model to load in but there you have it, an AR Native app!
